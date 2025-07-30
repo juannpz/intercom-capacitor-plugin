@@ -1,6 +1,6 @@
 {
-  "name": "@capacitor-community/intercom",
-  "version": "7.0.3",
+  "name": "@juannpz/intercom-capacitor-plugin",
+  "version": "7.0.4",
   "description": "Enable Intercom features for Capacitor apps",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -60,7 +60,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityIntercom.podspec"
+    "JuannpzCapacitorIntercomPlugin.podspec"
   ],
   "keywords": [
     "capacitor",
@@ -79,9 +79,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/capacitor-community/intercom"
+    "url": "https://github.com/juannpz/capacitor-intercom-plugin"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/intercom/issues"
+    "url": "https://github.com/juannpz/capacitor-intercom-plugin/issues"
   }
 }
